@@ -1,0 +1,5 @@
+c Simple problem 1 3vars, 3clauses
+p cnf 3 3
+1 -2 -3 0
+-1 -2 3 0
+-1 2 -3 0
